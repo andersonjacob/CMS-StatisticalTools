@@ -1,0 +1,7 @@
+RooCFAuto*
+*.d
+*.so
+*.pdf
+*.root
+*~
+.wscode*
